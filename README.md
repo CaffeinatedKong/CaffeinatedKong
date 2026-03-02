@@ -91,11 +91,3 @@
 | 🔐 Cybersecurity Intern | Amaris AI | Mar – Aug 2020 |
 
 ---
-
-<div align="center">
-
-*"Building things that make a difference — one commit at a time."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
-
-</div>
