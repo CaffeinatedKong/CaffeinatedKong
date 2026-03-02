@@ -14,7 +14,7 @@
 
 ## 🙋 About Me
 
-- 🎓 Studying **BSc (Hons) Computing Science** at Singapore Institute of Technology – University of Glasgow *(GPA: 4.7/5)*
+- 🎓 Studying **BSc (Hons) Computing Science** at Singapore Institute of Technology – University of Glasgow
 - 💼 Currently a **Student Data Analyst** at SIT, annotating and classifying 2D datasets for AI research
 - 🔐 Background in **Cybersecurity** (Diploma in Infocomm Security Management, Singapore Polytechnic)
 - 🤖 Passionate about **Machine Learning**, **Microservices**, and **Innovation**
