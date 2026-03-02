@@ -1,4 +1,3 @@
-[README (9).md](https://github.com/user-attachments/files/25687635/README.9.md)
 <div align="center">
 
 # Hey, I'm Yuki Kong 👋
